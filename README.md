@@ -10,3 +10,6 @@ It was an university project and was really useful to learn about microcontrolle
 
 # requirements
 Arduino Uno board, usb cable and some basic electronic components (cables, resistors, buttons) to connect the board to the VGA display and to create circuits for buttons
+
+
+image is not perfectly still but the game still works
