@@ -1,5 +1,5 @@
 # Tetris_on_Arduino
-Tetris on ATMEGA328P (Arduino Uno) for VGA output
+Tetris on ATMEGA328P (Arduino Uno) for VGA output, everthing is explained in the pdf file
 
 # story
 It was an university project and was really useful to learn about microcontrollers programming, in particular:
